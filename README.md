@@ -1,4 +1,4 @@
-[![MasterHead](https://5.imimg.com/data5/UF/GN/YR/SELLER-45881771/training-php-java-python-my-sql-500x500.jpeg)
+![MasterHead](https://thumbs.dreamstime.com/b/programming-concept-laptop-screen-binary-code-coding-css-python-c-java-javascript-html-php-ruby-colorful-vector-155503864.jpg)
 <h1 align="center">Hi 👋, I'm Devran</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -16,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devranyldzz&show_icons=true&locale=en" alt="devranyldzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devranyldzz&" alt="devranyldzz" /></p>
+
